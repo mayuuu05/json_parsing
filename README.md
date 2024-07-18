@@ -5,7 +5,7 @@
 ## JSON 
 JSON (JavaScript Object Notation) is a lightweight data-interchange format that is easy for humans to read and write and easy for machines to parse and generate. It is commonly used to transmit data between a server and a web application as text.
 
-##JSON Parsing
+## JSON Parsing
 JSON Parsing refers to the process of converting JSON data into a usable format in a programming language, typically into objects or data structures that can be manipulated and used within the application. This involves reading JSON data, interpreting its structure, and mapping it to appropriate data types in the programming environment.
 
 <div> 
