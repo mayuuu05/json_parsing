@@ -1,8 +1,7 @@
 # json_parsing
 
-# ch - 8 Json and Json parsing
+# ch - 8 What is JSON & JSON Parsing ?
 
-## What is JSON and what are its primary data structures?
 
 JSON (JavaScript Object Notation) is a lightweight data-interchange format that is easy to read and write for humans and easy to parse and generate for machines. It is commonly used for transmitting data between a server and web applications as text.
 
