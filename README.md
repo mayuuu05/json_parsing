@@ -5,18 +5,10 @@
 # JSON Parsing in Flutter
 
 ## Introduction
-This repository demonstrates how to parse JSON data in a Flutter application. JSON (JavaScript Object Notation) is a lightweight data-interchange format that is easy for humans to read and write and easy for machines to parse and generate.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Key Features of JSON](#key-features-of-json)
-- [Basic Structure](#basic-structure)
-- [Getting Started](#getting-started)
-- [Example JSON Data](#example-json-data)
-- [Flutter Code Example](#flutter-code-example)
-- [Running the Example](#running-the-example)
-- [Contributing](#contributing)
-- [License](#license)
+### JSON : A Simple Way to Store and Exchange Data
+
+JSON stands for JavaScript Object Notation. It's a lightweight format for storing and transporting data. Think of it as a universal language for computers to understand and share information.
 
 ## Key Features of JSON
 
