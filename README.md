@@ -9,7 +9,8 @@ JSON (JavaScript Object Notation) is a lightweight data-interchange format that 
 ### Primary Data Structures:
 - Objects: Unordered collections of key-value pairs.
 - Arrays: Ordered lists of values.
-
+- 
+Example of a JSON Object:
 ```json
 {
   "name": "John Doe",
