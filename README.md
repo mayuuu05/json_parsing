@@ -34,6 +34,15 @@ Here is a sample JSON data that we will parse in this example:
   "city": "New York"
 }
 ```
+
+Example of a JSON array:
+```json
+[
+  "apple",
+  "banana",
+  "Orange"
+]
+```
 <div> 
   <img src = "https://github.com/user-attachments/assets/e5c5cba3-9858-471b-bc51-935835d82339"  height=35% width=22%  />
 </div>
