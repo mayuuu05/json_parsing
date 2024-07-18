@@ -2,10 +2,6 @@
 
 # 8.1 What is JSON & JSON Parsing ?
 
-# JSON Parsing in Flutter
-
-## Introduction
-
 ### JSON : A Simple Way to Store and Exchange Data
 
 JSON stands for JavaScript Object Notation. It's a lightweight format for storing and transporting data. Think of it as a universal language for computers to understand and share information.
