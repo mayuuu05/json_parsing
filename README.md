@@ -31,12 +31,7 @@ Here is a sample JSON data that we will parse in this example:
 {
   "name": "John Doe",
   "age": 30,
-  "email": "john.doe@example.com",
-  "address": {
-    "street": "123 Main St",
-    "city": "Anytown",
-    "zip": "12345"
-  }
+  "city": "New York"
 }
 
 <div> 
