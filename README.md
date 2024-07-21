@@ -41,6 +41,8 @@ Example of Json Data Nested Map
     }
   },
 ```
+This example provides a detailed and hierarchical representation of a person's information, including personal details, contact information, address, and company information, all organized in a nested map format.
+
    <div> 
   <img src = "https://github.com/user-attachments/assets/32e1ab66-cc23-4f2c-a035-9f9d2a33d0c0"  height=35% width=22%  />
 </div>
