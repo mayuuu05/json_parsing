@@ -13,11 +13,11 @@ class DetailPage extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: Colors.black,
           centerTitle: true,
-          leading: Icon(
+          leading: const Icon(
             Icons.menu,
             color: Colors.white,
           ),
-          title: Text(
+          title: const Text(
             'Map of list',
             style: TextStyle(color: Colors.white),
           ),
@@ -30,8 +30,8 @@ class DetailPage extends StatelessWidget {
                     (index) {
                   var post = postProvider.postModel.posts[index];
                   return Container(
-                    margin: EdgeInsets.all(10),
-                    padding: EdgeInsets.all(15),
+                    margin: const EdgeInsets.all(10),
+                    padding: const EdgeInsets.all(15),
                     width: double.infinity,
                     decoration: BoxDecoration(
                       color: Colors.blue[900],
@@ -42,29 +42,29 @@ class DetailPage extends StatelessWidget {
                       children: [
                         Text(
                           post.title,textAlign: TextAlign.center,
-                          style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: Colors.white),
+                          style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: Colors.white),
                         ),
-                        SizedBox(height: 10),
+                        const SizedBox(height: 10),
                         Text(
                           post.body,
-                          style: TextStyle(color: Colors.white),
+                          style: const TextStyle(color: Colors.white),
                           overflow: TextOverflow.ellipsis,
                           maxLines: 10,
                         ),
-                        SizedBox(height: 10),
+                        const SizedBox(height: 10),
                         Text(
                           'Views: ${post.views}',
-                          style: TextStyle(color: Colors.white),
+                          style: const TextStyle(color: Colors.white),
                         ),
-                        SizedBox(height: 10),
+                        const SizedBox(height: 10),
                         Text(
                           'Tags: ${post.tags.join(', ')}',
-                          style: TextStyle(color: Colors.white),
+                          style: const TextStyle(color: Colors.white),
                         ),
-                        SizedBox(height: 10),
+                        const SizedBox(height: 10),
                         Text(
                           'Likes: ${post.reactions.likes}, Dislikes: ${post.reactions.dislikes}',
-                          style: TextStyle(color: Colors.white),
+                          style: const TextStyle(color: Colors.white),
                         ),
                       ],
                     ),
